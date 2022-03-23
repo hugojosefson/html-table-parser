@@ -1,4 +1,4 @@
-# html-table-parser
+# html_table_parser
 
 Parses a `<table>` from an HTML document, into an array of string arrays.
 
